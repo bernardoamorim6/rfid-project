@@ -44,4 +44,15 @@ added here.
 
 ---
 
+## Video of Results:
+
+First a video of the separation of different shapes:
+https://github.com/user-attachments/assets/0c3dd8d9-8903-47c6-b0aa-c48c2e00d680
+
+Video of display  identifying color and shape of object (Circulo = Circle; Verde = Green):
+https://github.com/user-attachments/assets/7eddfc5b-b6d7-4456-ab69-e8f4846c383e
+
+
+
+
 Team project completed as part of university coursework.
